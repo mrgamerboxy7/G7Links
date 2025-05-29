@@ -1,0 +1,6 @@
+colocar os links como um cartãozinho, com imagem, desc do link, e o botão para ir pro link.
+deixar o site tom escuro e roxo com testes para colocar algumas coisas verdes, por que não né?
+deixar algumas musicas ou videos salvos tambem, mas n é necessário.
+  titulo = Links do G7(ainda pode mudar)
+  talvez precise de uma descriçãozinha
+  colocar uma parte para abrir perfils de redes sociais etc.(nsei se coloco isso ou n).
