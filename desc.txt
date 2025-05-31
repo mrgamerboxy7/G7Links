@@ -4,3 +4,65 @@ deixar algumas musicas ou videos salvos tambem, mas n é necessário.
   titulo = Links do G7(ainda pode mudar)
   talvez precise de uma descriçãozinha
   colocar uma parte para abrir perfils de redes sociais etc.(nsei se coloco isso ou n).
+
+<section class="categoria2">
+
+         <div class="canais2 text-center">
+          <h2 class="fs-1"></h2>
+         </div>
+
+        <div class="categoria-videos">
+        	
+            <div class="card text-bg-dark border-danger mb-3" style="width: 20.2rem;">
+                <a href="https://www.youtube.com/watch?v=fdglw0gyP0U" class="link-offset-2 link-underline link-underline-opacity-0">
+                   <img src="https://img.youtube.com/vi/fdglw0gyP0U/maxresdefault.jpg" class="card-img-top">
+                   <h3 class="text-center">O JOGO MAIS ENGRACADO DE 2024 - Lockdown Protocol</h3>
+                </a>
+            </div>
+            
+             <div class="card text-bg-dark border-danger mb-3" style="width: 20.2rem;">
+                <a href="https://www.youtube.com/watch?v=fdglw0gyP0U" class="link-offset-2 link-underline link-underline-opacity-0">
+                   <img src="https://img.youtube.com/vi/fdglw0gyP0U/maxresdefault.jpg" class="card-img-top">
+                   <h3 class="text-center">O JOGO MAIS ENGRACADO DE 2024 - Lockdown Protocol</h3>
+                </a>
+            </div>
+
+             <div class="card text-bg-dark border-danger mb-3" style="width: 20.2rem;">
+                <a href="https://www.youtube.com/watch?v=fdglw0gyP0U" class="link-offset-2 link-underline link-underline-opacity-0">
+                   <img src="https://img.youtube.com/vi/fdglw0gyP0U/maxresdefault.jpg" class="card-img-top">
+                   <h3 class="text-center">O JOGO MAIS ENGRACADO DE 2024 - Lockdown Protocol</h3>
+                </a>
+            </div>
+
+             <div class="card text-bg-dark border-danger mb-3" style="width: 20.2rem;">
+                <a href="https://www.youtube.com/watch?v=fdglw0gyP0U" class="link-offset-2 link-underline link-underline-opacity-0">
+                   <img src="https://img.youtube.com/vi/fdglw0gyP0U/maxresdefault.jpg" class="card-img-top">
+                   <h3 class="text-center">O JOGO MAIS ENGRACADO DE 2024 - Lockdown Protocol</h3>
+                </a>
+            </div>
+
+        </div>
+
+    </section>
+
+
+css
+
+.categoria2 h3 {
+    color: white;
+    font-size: 20px;
+    padding-right: 5px;
+}
+
+.canais2 {
+    background: rgb(221, 31, 31);
+    border-radius: 1px;
+    border-bottom: 10px;
+    border-top: 10px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
