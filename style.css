@@ -11,12 +11,78 @@ header {
     color: rgb(221, 31, 31);
 }
 
-.chamada {
+.section1 {
     background: rgb(62, 11, 116);
+    border-top: 4px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    border-color: black;
     padding-top: 50px;
     padding-bottom: 20px;
 }
 
 .icones {
   padding-left: 200px;
+}
+
+.videodisplay {
+    padding-left: 30px;
+}
+
+img {
+    height: 200px;
+}
+
+.categoria-videos {
+    display: flex;
+    gap: 10px;
+    padding-top: 70px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.categoria {
+    background: rgb(4, 90, 10);
+    padding-bottom: 50px;
+    border-bottom: 4px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    border-color: black;
+}
+
+.categoria2 {
+    background: rgb(4, 90, 10);
+    padding-bottom: 50px;
+}
+
+.categoria-videos img {
+    opacity: 0.9;
+    height: 180px;
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+}
+
+.categoria h3 {
+    color: rgb(255, 204, 0);
+    font-size: 20px;
+    margin-right: 5px;
+    padding-top: 7px;
+}
+
+.categoria p {
+    color: white;
+    font-size: 20px;
+    margin-right: 5px;
+    padding-top: 3px;
+    padding-bottom: 4px;
+}
+
+.canais {
+    background: rgb(0, 0, 0);
+    padding-top: 20px;
+    padding-bottom: 10px;
 }
